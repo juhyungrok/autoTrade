@@ -1,0 +1,54 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:43737 (IPv4)
+Extension host agent listening on 43737
+
+[13:25:10] 
+
+
+
+
+[13:25:10] Extension host agent started.
+[13:25:10] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+[13:25:10] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+[13:25:10] [127.0.0.1][ad40fb38][ManagementConnection] New connection established.
+[13:25:10] [127.0.0.1][22184386][ExtensionHostConnection] New connection established.
+[13:25:11] [127.0.0.1][22184386][ExtensionHostConnection] <1533> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[13:30:10] New EH opened, aborting shutdown
+[13:38:48] [127.0.0.1][e120207c][ManagementConnection] New connection established.
+[13:38:48] [127.0.0.1][5c2f417a][ExtensionHostConnection] New connection established.
+[13:38:48] [127.0.0.1][5c2f417a][ExtensionHostConnection] <1796> Launched Extension Host Process.
+[13:38:53] [127.0.0.1][e120207c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:38:53] [127.0.0.1][5c2f417a][ExtensionHostConnection] <1796> Extension Host Process exited with code: 0, signal: null.
+[13:55:25] [127.0.0.1][ad40fb38][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:55:25] [127.0.0.1][22184386][ExtensionHostConnection] <1533> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[13:55:25] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:55:34] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:55:34] Cancelling previous shutdown timeout
+[13:55:34] [127.0.0.1][cbe4886c][ManagementConnection] New connection established.
+[13:55:35] [127.0.0.1][01df7d0d][ExtensionHostConnection] New connection established.
+[13:55:35] [127.0.0.1][01df7d0d][ExtensionHostConnection] <2966> Launched Extension Host Process.
+[13:56:51] [127.0.0.1][cbe4886c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:56:51] [127.0.0.1][01df7d0d][ExtensionHostConnection] <2966> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[13:56:51] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[13:56:51] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:56:57] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:56:57] Cancelling previous shutdown timeout
+[13:56:57] [127.0.0.1][2a25a2d7][ManagementConnection] New connection established.
+[13:56:57] [127.0.0.1][f745c50a][ExtensionHostConnection] New connection established.
+[13:56:57] [127.0.0.1][f745c50a][ExtensionHostConnection] <3333> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[14:01:57] New EH opened, aborting shutdown

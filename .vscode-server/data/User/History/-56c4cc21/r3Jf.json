@@ -1,0 +1,11 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "security.workspace.trust.untrustedFiles": "open",
+  "react-native.packager.port": 19001,
+  "RainbowBrackets.depreciation-notice": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "remote.SSH.remotePlatform": {
+    "aws": "linux"
+  }
+}
